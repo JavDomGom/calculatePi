@@ -43,9 +43,9 @@ Como curiosidad, si obtenemos 44904 decimales de Pi podremos observar que en la 
 
 ![alt text](img/44899_enDecimalesDePi.png)
 
-IMPORTANTE: No te recomiendo que pruebes a calcular un número de decimales de Pi muy elevado (por ejemplo un millón), ya que es posible que tu CPU comience a calentarse considerablemente. Este era un truco muy viejo que se usaba para "romper" el ordenador de alguien hace muchos años, y consistía en meter en el arranque un algoritmo que calculase decimales de Pi como si no hubiera mañana con "*unas pocas*" iteraciones.
+**IMPORTANTE**: No te recomiendo que pruebes a calcular un número de decimales de Pi muy elevado (por ejemplo un millón), ya que es posible que tu CPU comience a calentarse considerablemente. Este era un truco muy viejo que se usaba para "romper" el ordenador de alguien hace muchos años, y consistía en meter en el arranque un algoritmo que calculase decimales de Pi como si no hubiera mañana con "*unas pocas*" iteraciones.
 
 **Agradecimientos a Brian "Beej Jorgensen" Hall.*
 
 ## Un Millón de dígitos de Pi
-* [1millon_de_digitos_de_Pi.png](img/1millon_de_digitos_de_Pi.png) (22.8MB)
+* [1millon_de_digitos_de_Pi.png](img/1millon_de_digitos_de_Pi.png) (21.7MB)
